@@ -1,16 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shaily Fadadu</h1>
-<h3 align="center">A passionate Technophile from India</h3>
+<h3 align="center">A passionate Technophile </h3>
 <img align="right" alt="Coding" width="400" src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shailifadadu&label=Profile%20views&color=0e75b6&style=flat" alt="shailifadadu" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Web Development Project**
-
-- 🌱 I’m currently learning **Backened web development**
-
-- 💬 Ask me about **problem solving, Frontened web development**
+- 🔭 I’m currently working on **CP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
