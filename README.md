@@ -1,29 +1,43 @@
-<h1 align="center">Hey 👋, I'm Shaily Fadadu</h1>
-<h3 align="center">A passionate Technophile </h3>
-<img align="right" alt="Coding" width="400" src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif">
+<h1 align="center">👋 Hey, I'm Shaily Fadadu</h1>
+<h3 align="center">✨ Passionate Technophile | 🚀 Coding Enthusiast</h3>
 
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> <br>
-
-- 🔭 I’m currently working on **CP and Web Development**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shaily-fadadu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaily-fadadu" height="30" width="40" /></a>
-<a href="https://instagram.com/shaily_fadadu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaily_fadadu" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shaili_456" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shaili_456" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shaily_456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shaily_456" height="30" width="40" /></a>
-<a href="https://discord.gg/shailyfadadu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shailyfadadu" height="30" width="40" /></a>
+<!-- Add a unique and fun animation or GIF -->
+<p align="center">
+  <img src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif" alt="Fun Animation">
 </p>
 
-<h3 align="left">Tech Stack : </h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+- 🌱 I’m currently exploring **Cloud**
+- 📚 Learning something new Every day
+- 📧 Reach out to me at `shailifadadu@gmail.com`
 
-<h3 align="left">Support:</h3>
-<!-- <p><a href="https://www.buymeacoffee.com/shailifadadu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shailifadadu" /></a></p><br><br> -->
+<h3 align="left">Connect with me 🌐:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/shaily-fadadu" target="blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />
+  </a>
+  <a href="https://github.com/shailifadadu" target="blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" width="40" />
+  </a>
+  <a href="https://instagram.com/shaily_fadadu" target="blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="40" width="40" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shailifadadu&show_icons=true&locale=en&layout=compact" alt="shailifadadu" /></p>
+<h3 align="left">Tech Stack 💻:</h3>
+<p align="left"> 
+<img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> 
+<img src="https://skillicons.dev/icons?i=cpp" alt="c++" width="40" height="40"/> 
+<img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> 
+<img src="https://skillicons.dev/icons?i=css" alt="css" width="40" height="40"/> 
+<img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shailifadadu&show_icons=true&locale=en" alt="shailifadadu" /></p>
+<h3 align="left">GitHub Stats 📊:</h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shailifadadu&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shailifadadu&" alt="GitHub Streak" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shailifadadu&" alt="shailifadadu" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shailifadadu&style=for-the-badge" alt="">
+</p>
