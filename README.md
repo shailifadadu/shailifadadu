@@ -32,6 +32,9 @@
 <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/>
 </p>
 
 <h3 align="left">GitHub Stats 📊:</h3>
