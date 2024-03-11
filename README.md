@@ -1,9 +1,8 @@
-<h1 align="center">👋 Hey, I'm Shaily Fadadu</h1>
-<h3 align="center">✨ Passionate Technophile | 🚀 Coding Enthusiast</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merienda&size=95&pause=90&center=true&vCenter=true&random=false&width=2000&height=200&lines=Hey!!%F0%9F%91%8B;I+am+Shaily+Fadadu;Cloud+%E2%98%81%EF%B8%8F;Passionate+Technophile+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <!-- Add a unique and fun animation or GIF -->
 <p align="center">
-  <img src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif" alt="Fun Animation">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Pluralsight Coding GIF">
 </p>
 
 - 🌱 I’m currently exploring **Cloud**
@@ -16,7 +15,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />
   </a>
   <a href="https://github.com/shailifadadu" target="blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" width="40" />
+    <img src="https://skillicons.dev/icons?i=twitter" alt="twitter" height="40" width="40" />
   </a>
   <a href="https://instagram.com/shaily_fadadu" target="blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="40" width="40" />
@@ -39,8 +38,10 @@
 </p>
 
 <h3 align="left">GitHub Stats 📊:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shailifadadu&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shailifadadu&" alt="GitHub Streak" /></p>
+
+![shailifadadu's Stats](https://github-readme-stats.vercel.app/api?username=shailifadadu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![shailifadadu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shailifadadu&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shailifadadu&style=for-the-badge" alt="">
