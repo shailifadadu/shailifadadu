@@ -35,6 +35,7 @@
 <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" width="40" height="40"/>
 </p>
 
 <h3 align="left">GitHub Stats 📊:</h3>
