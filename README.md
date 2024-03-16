@@ -17,9 +17,6 @@
   <a href="https://github.com/shailifadadu" target="blank">
     <img src="https://skillicons.dev/icons?i=twitter" alt="twitter" height="40" width="40" />
   </a>
-  <a href="https://instagram.com/shaily_fadadu" target="blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="40" width="40" />
-  </a>
 </p>
 
 <h3 align="left">Tech Stack 💻:</h3>
