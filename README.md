@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently exploring **Cloud**
 - 📚 Learning something new Every day
-- 📧 Reach out to me at `shailifadadu@gmail.com`
+- 📧 Reach out to me at `shailyfadadu04@gmail.com`
 
 <h3 align="left">Connect with me 🌐:</h3>
 <p align="left">
