@@ -14,7 +14,7 @@
   <a href="https://linkedin.com/in/shaily-fadadu" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />
   </a>
-  <a href="https://github.com/shailifadadu" target="blank">
+  <a href="https://x.com/ShailyFadadu?t=01yzeaYl7_xYnSkLG6TTJg&s=08" target="blank">
     <img src="https://skillicons.dev/icons?i=twitter" alt="twitter" height="40" width="40" />
   </a>
 </p>
