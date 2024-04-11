@@ -1,10 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Merienda&size=95&pause=90&center=true&random=false&width=2000&height=200&lines=Hey!!%F0%9F%91%8B;I'm+Shaily+Fadadu;Cloud+%E2%98%81%EF%B8%8F;Learner+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <!-- Add a unique and fun animation or GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Pluralsight Coding GIF">
-</p>
-
+<div align="center">
+<img src="https://github.com/shailifadadu/shailifadadu/assets/116940934/21f64e1d-8fc4-4067-b0ca-7c4c6188c24c.gif" width="350">
+</div>
+<br>
+ 
 - 🌱 I’m currently exploring **Cloud**
 - 📚 Learning something new Every day
 - 📧 Reach out to me at `shailyfadadu04@gmail.com`
