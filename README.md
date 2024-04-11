@@ -2,7 +2,7 @@
 
 <!-- Add a unique and fun animation or GIF -->
 <div align="center">
-<img src="https://github.com/shailifadadu/shailifadadu/assets/116940934/21f64e1d-8fc4-4067-b0ca-7c4c6188c24c.gif" width="350">
+<img src="https://github.com/shailifadadu/shailifadadu/assets/116940934/21f64e1d-8fc4-4067-b0ca-7c4c6188c24c.gif" width="300">
 </div>
 <br>
  
