@@ -2,7 +2,7 @@
 
 <!-- Add a unique and fun animation or GIF -->
 <div align="center">
-<img src="https://github.com/shailifadadu/shailifadadu/assets/116940934/8f558d3a-0e9c-40f2-a149-66f1073e902e.gif" width="300">
+<img src="https://github.com/shailifadadu/shailifadadu/assets/116940934/8f558d3a-0e9c-40f2-a149-66f1073e902e.gif" width="250">
 </div> 
 
 - 🌱 I’m currently learning **Cloud**
