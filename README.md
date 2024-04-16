@@ -50,8 +50,8 @@
 <h2><img src = "https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Bar%20Chart.png" width="40" height="40"> Github Stats</h2>
 </div>
 
-<div style="display: flex; justify-content: space-between;">
-    <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=shailifadadu&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=shailifadadu&show_icons=true&theme=transparent" />
 </div>
 
 
