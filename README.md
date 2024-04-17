@@ -29,21 +29,64 @@
 <h2><img src = "https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Fire.png" width="40" height="40">Languages and Tools</h2>
 </div>
 
-<p align="left"> 
-<img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> 
-<img src="https://skillicons.dev/icons?i=cpp" alt="c++" width="40" height="40"/> 
-<img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> 
-<img src="https://skillicons.dev/icons?i=css" alt="css" width="40" height="40"/> 
-<img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" width="40" height="40"/>
-</p>
-
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="c" title="c" />
+      <br>C
+    </td>
+    <td align="center" width="90">
+    <img src = "https://techstack-generator.vercel.app/cpp-icon.svg" width="45" height="45"  alt="c++" title="c++"/>
+      <br>C++
+    </td>
+    <td align="center" width="90">
+    <img src = "https://skillicons.dev/icons?i=html" width="45" height="45" alt="html" title="html"/>
+      <br>HTML
+    </td>
+    <td align="center" width="90">
+    <img src = "https://skillicons.dev/icons?i=css" width="45" height="45" alt="css" title="css"/>
+      <br>CSS
+    </td>
+    <td align="center" width="90">
+    <img src = "https://techstack-generator.vercel.app/java-icon.svg" width="45" height="45" alt="java" title="java"/>
+      <br>JAVA
+    </td>
+    <td align="center" width="90">
+    <img src = "https://techstack-generator.vercel.app/js-icon.svg" width="45" height="45" alt="javascript" title="javascript"/>
+      <br>Javascript
+    </td>
+    <td align="center" width="90">
+    <img src = "https://techstack-generator.vercel.app/docker-icon.svg" width="45" height="45" alt="docker" title="docker"/>
+      <br>Docker
+    </td>
+    </tr>
+  <tr>
+    <td align="center" width="90">
+    <img src = "https://skillicons.dev/icons?i=postgresql" width="45" height="45" alt="postgresql" title="postgresql"/>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="90">
+    <img src = "https://techstack-generator.vercel.app/mysql-icon.svg" width="45" height="45" alt="mysql" title="mysql"/>
+      <br>MySQL
+    </td>
+    <td align="center" width="90">
+    <img src = "https://skillicons.dev/icons?i=git" width="45" height="45" alt="git" title="git"/>
+      <br>Git
+    </td>
+    <td align="center" width="90">
+    <img src = "https://skillicons.dev/icons?i=gcp" width="45" height="45" alt="gcp" title="gcp"/>
+      <br>GCP
+    </td>
+    <td align="center" width="90">
+    <img src = "https://skillicons.dev/icons?i=postman" width="45" height="45" alt="postman" title="postman"/>
+      <br>Postman
+    </td>
+    <td align="center" width="90">
+    <img src = "https://techstack-generator.vercel.app/aws-icon.svg" width="45" height="45" alt="aws" title="aws"/>
+      <br>AWS
+    </td>
+  </tr>
+</table>
 
 
 <div align = "left">
