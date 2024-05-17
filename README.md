@@ -85,6 +85,16 @@
     <img src = "https://techstack-generator.vercel.app/aws-icon.svg" width="45" height="45" alt="aws" title="aws"/>
       <br>AWS
     </td>
+    <td align="center" width="90">
+    <img src = "https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="aws" title="aws"/>
+      <br>NodeJS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+    <img src = "https://techstack-generator.vercel.app/react-icon.svg" width="45" height="45" alt="aws" title="aws"/>
+      <br>React
+    </td>
   </tr>
 </table>
 
