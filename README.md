@@ -48,19 +48,31 @@
       <br>CSS
     </td>
     <td align="center" width="90">
-    <img src = "https://techstack-generator.vercel.app/java-icon.svg" width="45" height="45" alt="java" title="java"/>
-      <br>JAVA
-    </td>
-    <td align="center" width="90">
     <img src = "https://techstack-generator.vercel.app/js-icon.svg" width="45" height="45" alt="javascript" title="javascript"/>
       <br>Javascript
     </td>
     <td align="center" width="90">
-    <img src = "https://techstack-generator.vercel.app/docker-icon.svg" width="45" height="45" alt="docker" title="docker"/>
-      <br>Docker
+    <img src = "https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="aws" title="aws"/>
+      <br>NodeJS
+    </td>
+    <td align="center" width="90">
+    <img src = "https://skillicons.dev/icons?i=expressjs" width="45" height="45" alt="aws" title="aws"/>
+      <br>ExpressJS
+    </td>
+     <td align="center" width="90">
+    <img src = "https://techstack-generator.vercel.app/react-icon.svg" width="45" height="45" alt="aws" title="aws"/>
+      <br>React
     </td>
     </tr>
   <tr>
+    <td align="center" width="90">
+    <img src = "https://techstack-generator.vercel.app/docker-icon.svg" width="45" height="45" alt="docker" title="docker"/>
+      <br>Docker
+    </td>
+    <td align="center" width="90">
+    <img src = "https://techstack-generator.vercel.app/java-icon.svg" width="45" height="45" alt="java" title="java"/>
+      <br>JAVA
+    </td>
     <td align="center" width="90">
     <img src = "https://skillicons.dev/icons?i=postgresql" width="45" height="45" alt="postgresql" title="postgresql"/>
       <br>PostgreSQL
@@ -70,12 +82,12 @@
       <br>MySQL
     </td>
     <td align="center" width="90">
-    <img src = "https://skillicons.dev/icons?i=git" width="45" height="45" alt="git" title="git"/>
-      <br>Git
+    <img src = "https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="mysql" title="mysql"/>
+      <br>MongoDB
     </td>
     <td align="center" width="90">
-    <img src = "https://skillicons.dev/icons?i=gcp" width="45" height="45" alt="gcp" title="gcp"/>
-      <br>GCP
+    <img src = "https://skillicons.dev/icons?i=git" width="45" height="45" alt="git" title="git"/>
+      <br>Git
     </td>
     <td align="center" width="90">
     <img src = "https://skillicons.dev/icons?i=postman" width="45" height="45" alt="postman" title="postman"/>
@@ -85,17 +97,8 @@
     <img src = "https://techstack-generator.vercel.app/aws-icon.svg" width="45" height="45" alt="aws" title="aws"/>
       <br>AWS
     </td>
-    <td align="center" width="90">
-    <img src = "https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="aws" title="aws"/>
-      <br>NodeJS
-    </td>
   </tr>
-  <tr>
-    <td align="center" width="90">
-    <img src = "https://techstack-generator.vercel.app/react-icon.svg" width="45" height="45" alt="aws" title="aws"/>
-      <br>React
-    </td>
-  </tr>
+ 
 </table>
 
 
