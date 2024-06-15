@@ -6,7 +6,8 @@
 </div> 
 
 - 🌱 I’m currently learning **Cloud**
-- 🔭  I’m currently working on something cool 😉
+- 🔭 I’m currently working on something cool 😉
+- 🌐 To know more, visit my [Portfolio](https://shailyfadadu.vercel.app/)
 - 📧 Reach out to me at `shailyfadadu04@gmail.com`
 
 
