@@ -5,7 +5,7 @@
 <img src="https://github.com/shailifadadu/shailifadadu/assets/116940934/8f558d3a-0e9c-40f2-a149-66f1073e902e.gif" width="250">
 </div> 
 
-- 🌱 I’m currently learning **Cloud**
+- 🌱 I’m currently learning **Web & Cloud**
 - 🔭 I’m currently working on something cool 😉
 - 🌐 To know more, visit my [Portfolio](https://shailyfadadu.vercel.app/)
 - 📧 Reach out to me at `shailyfadadu04@gmail.com`
