@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merienda&size=95&pause=90&center=true&vCenter=true&random=false&width=1900&height=160&lines=Hey...%F0%9F%91%8B;Welcome+to+my+GitHub+profile!;I'm+Shaily+Fadadu+;Cloud+%E2%98%81%EF%B8%8F;Learner+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merienda&size=95&pause=90&center=true&vCenter=true&random=false&width=1900&height=160&lines=Hey...%F0%9F%91%8B;Welcome+to+my+GitHub+World!;I'm+Shaily+Fadadu+;Tech+Enthusiast;Learner+for+Life+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <!-- Add a unique and fun animation or GIF -->
 <div align="center">
