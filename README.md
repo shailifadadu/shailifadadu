@@ -36,16 +36,8 @@
       <br>JAVA
     </td>
     <td align="center" width="90">
-    <img src = "https://techstack-generator.vercel.app/cpp-icon.svg" width="45" height="45"  alt="c++" title="c++"/>
-      <br>C++
-    </td>
-    <td align="center" width="90">
-    <img src = "https://skillicons.dev/icons?i=html" width="45" height="45" alt="html" title="html"/>
-      <br>HTML
-    </td>
-    <td align="center" width="90">
-    <img src = "https://skillicons.dev/icons?i=css" width="45" height="45" alt="css" title="css"/>
-      <br>CSS
+      <img src="https://skillicons.dev/icons?i=spring" width="45" height="45" alt="Vite" title="Vite" />
+      <br>Spring-boot
     </td>
     <td align="center" width="90">
     <img src = "https://techstack-generator.vercel.app/js-icon.svg" width="45" height="45" alt="javascript" title="javascript"/>
@@ -59,11 +51,39 @@
     <img src = "https://techstack-generator.vercel.app/react-icon.svg" width="45" height="45" alt="aws" title="aws"/>
       <br>React
     </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" title="Next.js" />
+      <br>Next.js
+    </td>
      <td align="center" width="90">
-    <img src = "https://techstack-generator.vercel.app/mysql-icon.svg" width="45" height="45" alt="mysql" title="mysql"/>
-      <br>MySQL
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express.js" title="Express.js" />
+      <br>Express.js
     </td>
     <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="45" height="45" alt="C++" title="C++" />
+      <br>C++
+    </td>
+
+   </tr> 
+   <tr>
+     </td>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind CSS" title="Tailwind" />
+      <br>Tailwind
+    </td>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" title="MongoDB" />
+      <br>MongoDB
+    </td>
+     <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="45" height="45" alt="MySQL" title="MySQL" />
+      <br>MySQL
+    </td>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="Vercel" title="Vercel" />
+      <br>Vercel
+    </td>
+     <td align="center" width="90">
     <img src = "https://skillicons.dev/icons?i=git" width="45" height="45" alt="git" title="git"/>
       <br>Git
     </td>
@@ -71,7 +91,9 @@
     <img src = "https://skillicons.dev/icons?i=postman" width="45" height="45" alt="postman" title="postman"/>
       <br>Postman
     </td>
-    </tr>
+   </tr>
+    
+    
 </table>
 
 
