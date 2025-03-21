@@ -23,8 +23,6 @@
   </a>
 </p>
 
-
-
 <div align = "left">
 <h2><img src = "https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Fire.png" width="40" height="40">Languages and Tools</h2>
 </div>
@@ -90,6 +88,14 @@
     <td align="center" width="90">
     <img src = "https://skillicons.dev/icons?i=postman" width="45" height="45" alt="postman" title="postman"/>
       <br>Postman
+    </td>
+     <td align="center" width="90">
+    <img src = "https://techstack-generator.vercel.app/docker-icon.svg" width="45" height="45" alt="docker" title="Docker"/>
+      <br>Docker
+    </td>
+    <td align="center" width="90">
+    <img src = "https://skillicons.dev/icons?i=idea" width="45" height="45" alt="idea" title="IntellijIdea"/>
+      <br>Intellij
     </td>
    </tr>
     
