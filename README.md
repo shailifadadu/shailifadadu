@@ -1,13 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merienda&size=95&pause=90&center=true&vCenter=true&random=false&width=1900&height=160&lines=Hey...%F0%9F%91%8B;Welcome+to+my+GitHub+World!;I'm+Shaily+Fadadu+;Tech+Enthusiast;Learner+for+Life+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merienda&size=95&pause=90&center=true&vCenter=true&random=false&width=1900&height=160&lines=Hey...%F0%9F%91%8B;Welcome+to+my+GitHub+World!;I'm+Shaily+Fadadu+;Java+%26+Springboot;Open+Source+Enthusiast;Learner+for+Life+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <!-- Add a unique and fun animation or GIF -->
 <div align="center">
 <img src="https://github.com/shailifadadu/shailifadadu/assets/116940934/8f558d3a-0e9c-40f2-a149-66f1073e902e.gif" width="250">
 </div> 
 
-- 🌱 I’m currently learning **Web & Cloud**
+- 🌱 I’m currently learning **Microservices**
+- 💬 Ask me about MERN Stack and Java Full Stack
 - 🌐 To know more, visit my [Portfolio](https://shailyfadadu.vercel.app/)
-- 📧 Reach out to me at `shailyfadadu04@gmail.com`
 
 
 <div align="left">
@@ -20,6 +20,9 @@
   </a>
   <a href="https://x.com/ShailyFadadu?t=01yzeaYl7_xYnSkLG6TTJg&s=08" target="blank">
     <img src="https://skillicons.dev/icons?i=twitter" alt="twitter" height="40" width="40" />
+  </a>
+  <a href="shailyfadadu04@gmail.com" target="blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" width="40" />
   </a>
 </p>
 
