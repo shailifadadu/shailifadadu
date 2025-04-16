@@ -34,7 +34,7 @@
 </p>
 
 <div align = "center">
-<h2><img src = "https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Fire.png" width="40" height="40">Languages and Tools</h2>
+<h2><img src = "https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Fire.png" width="40" height="40">Tech and Tools</h2>
 </div>
 
 <table align="center">
