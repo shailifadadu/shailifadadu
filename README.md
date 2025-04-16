@@ -1,20 +1,27 @@
+<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png"/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Merienda&size=95&pause=90&center=true&vCenter=true&random=false&width=1900&height=160&lines=Hey...%F0%9F%91%8B;Welcome+to+my+GitHub+World!;I'm+Shaily+Fadadu+;Java+%26+Springboot;Open+Source+Enthusiast;Learner+for+Life+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
-<!-- Add a unique and fun animation or GIF -->
+
+
+<p align="left">
+🌱 I’m currently learning <strong>Microservices</strong><br>
+💬 Ask me about <strong>Java, Spring Boot,</strong> and the <strong>MERN Stack</strong><br/>
+🌐 To know more, visit my <a href="https://shailyfadadu.vercel.app/">Portfolio</a>
+</p>
+
+
+<!-- Add a unique and fun animation or GIF 
 <div align="center">
 <img src="https://github.com/shailifadadu/shailifadadu/assets/116940934/8f558d3a-0e9c-40f2-a149-66f1073e902e.gif" width="250">
-</div> 
-
-- 🌱 I’m currently learning **Microservices**
-- 💬 Ask me about MERN Stack and Java Full Stack
-- 🌐 To know more, visit my [Portfolio](https://shailyfadadu.vercel.app/)
+</div> -->
 
 
-<div align="left">
+<div align="center">
 <h2><img src = "https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Handshake.png" width="40" height="40">Let's Connect</h2>
 </div>
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/shaily-fadadu" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />
   </a>
@@ -26,7 +33,7 @@
   </a>
 </p>
 
-<div align = "left">
+<div align = "center">
 <h2><img src = "https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Fire.png" width="40" height="40">Languages and Tools</h2>
 </div>
 
@@ -106,17 +113,17 @@
 </table>
 
 
-<div align = "left">
+<div align = "center">
 <h2><img src = "https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Bar%20Chart.png" width="40" height="40"> Github Stats</h2>
 </div>
 
-<div>
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=shailifadadu&show_icons=true&theme=transparent" />
 </div>
 
 
 
-<div align = "left">
+<div align = "center">
 <h2><img src = "https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="40" height="40">Contributions</h2>
 </div>
 
