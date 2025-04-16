@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merienda&size=95&pause=90&center=true&vCenter=true&random=false&width=1900&height=160&lines=Hey...%F0%9F%91%8B;Welcome+to+my+GitHub+World!;I'm+Shaily+Fadadu+;Java+%26+Springboot;Open+Source+Enthusiast;Learner+for+Life+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merienda&size=95&pause=90&center=true&vCenter=true&random=false&width=1900&height=160&lines=Hey...%F0%9F%91%8B;Welcome+to+my+GitHub+World!;I'm+Shaily+Fadadu+;Java+%26+Springboot;Tech+Enthusiast;Learner+for+Life+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 
 
