@@ -1,4 +1,5 @@
-<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c75,100:45a29e" width="100%"/>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Merienda&size=95&pause=90&center=true&vCenter=true&random=false&width=1900&height=160&lines=Hey...%F0%9F%91%8B;Welcome+to+my+GitHub+World!;I'm+Shaily+Fadadu+;Java+%26+Springboot;Tech+Enthusiast;Learner+for+Life+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
@@ -136,3 +137,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shailifadadu&style=flat-square&color=blue">
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c75,100:45a29e&section=footer&animation=fadeIn" width="100%"/>
