@@ -32,6 +32,11 @@
   <a href="shailyfadadu04@gmail.com" target="blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" width="40" />
   </a>
+
+   <a href="https://leetcode.com/u/shaily_456/" target="blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode&titles=true" alt="Leetcode" height="40" width="40" />
+  </a>
+  
 </p>
 
 <div align = "center">
@@ -45,24 +50,24 @@
       <br>JAVA
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=spring" width="45" height="45" alt="Vite" title="Vite" />
+      <img src="https://skillicons.dev/icons?i=spring" width="45" height="45" alt="Vite" title="SpringBoot" />
       <br>Spring-boot
     </td>
     <td align="center" width="90">
     <img src = "https://techstack-generator.vercel.app/js-icon.svg" width="45" height="45" alt="javascript" title="javascript"/>
       <br>Javascript
     </td>
-    <td align="center" width="90">
-    <img src = "https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="aws" title="aws"/>
-      <br>NodeJS
-    </td>
      <td align="center" width="90">
-    <img src = "https://techstack-generator.vercel.app/react-icon.svg" width="45" height="45" alt="aws" title="aws"/>
+    <img src = "https://techstack-generator.vercel.app/react-icon.svg" width="45" height="45" alt="aws" title="React"/>
       <br>React
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" title="Next.js" />
       <br>Next.js
+    </td>
+    <td align="center" width="90">
+    <img src = "https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="aws" title="NodeJS"/>
+      <br>NodeJS
     </td>
      <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express.js" title="Express.js" />
@@ -107,6 +112,17 @@
     <td align="center" width="90">
     <img src = "https://skillicons.dev/icons?i=idea" width="45" height="45" alt="idea" title="IntellijIdea"/>
       <br>Intellij
+    </td>
+   </tr>
+
+   <tr>
+     <td align="center" width="90">
+    <img src = "https://go-skill-icons.vercel.app/api/icons?i=canva&titles=true" width="45" height="45" alt="idea" title="Canva"/>
+      <br>Canva
+    </td>
+    <td align="center" width="90">
+    <img src = "https://go-skill-icons.vercel.app/api/icons?i=postgresql&titles=true" width="45" height="45" alt="idea" title="PostgreSQL"/>
+      <br>PostgreSQL
     </td>
    </tr>
     
