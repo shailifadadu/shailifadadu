@@ -1,14 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c75,100:45a29e" width="100%"/>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merienda&size=95&pause=90&center=true&vCenter=true&random=false&width=1900&height=160&lines=Hey...%F0%9F%91%8B;Welcome+to+my+GitHub+World!;I'm+Shaily+Fadadu+;Java+%26+Springboot;Tech+Enthusiast;Learner+for+Life+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merienda&size=95&pause=90&center=true&vCenter=true&random=false&width=1900&height=160&lines=Hey...%F0%9F%91%8B;Welcome+to+my+GitHub+World!;I'm+Shaily+Fadadu+;Tech+Enthusiast;Learner+for+Life+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 
 
 <p align="left">
 🌱 I’m currently learning <strong>Microservices</strong><br>
 💬 Ask me about <strong>Java, Spring Boot,</strong> and the <strong>MERN Stack</strong><br/>
-🌐 To know more, visit my <a href="https://shailyfadadu.vercel.app/">Portfolio</a>
 </p>
 
 
@@ -26,17 +25,9 @@
   <a href="https://linkedin.com/in/shaily-fadadu" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />
   </a>
-  <a href="https://x.com/ShailyFadadu?t=01yzeaYl7_xYnSkLG6TTJg&s=08" target="blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="twitter" height="40" width="40" />
-  </a>
-  <a href="shailyfadadu04@gmail.com" target="blank">
+  <a href="fadadushaily@gmail.com" target="blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" width="40" />
   </a>
-
-   <a href="https://leetcode.com/u/shaily_456/" target="blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode&titles=true" alt="Leetcode" height="40" width="40" />
-  </a>
-  
 </p>
 
 <div align = "center">
