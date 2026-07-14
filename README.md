@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=28&pause=1000&color=45A29E&center=true&vCenter=true&width=900&lines=Welcome+to+my+Github+World!;Java+%7C+Springboot+%7C+Cloud;Building+Scalable+Backend+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=28&pause=1000&color=45A29E&center=true&vCenter=true&width=900&lines=Welcome+to+my+Github+World!)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,7 +13,6 @@
 - 💼 Backend Engineer Intern at **eInfochips (An Arrow Company)**
 - 🌱 Currently working on **Microservices, Cloud-Native Systems & System Design**
 - ⚙️ Focused on building scalable and efficient backend applications
-- 💬 Ask me about **Java, Spring Boot, Docker & MERN**
 
 ---
 
