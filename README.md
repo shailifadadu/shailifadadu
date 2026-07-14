@@ -10,7 +10,7 @@
 
 # 👋 About Me
 
-- 💼 Backend Engineer Intern at **eInfochips (An Arrow Company)**
+- 💼 Associate Software Engineer at **eInfochips (An Arrow Company)**
 - 🌱 Currently working on **Microservices, Cloud-Native Systems & System Design**
 - ⚙️ Focused on building scalable and efficient backend applications
 
